@@ -35,11 +35,4 @@ Mục tiêu: Tạo một backend API RESTful mạnh mẽ và dễ mở rộng.
 - **JWT Authentication**
 - **AutoMapper**
 
----
 
-## 🚀 Cài đặt & Chạy project
-
-### 1. Clone repo
-```bash
-git clone https://github.com/tunbq21/Diamond-Shop-System-API.git
-cd Diamond-Shop-System-API
